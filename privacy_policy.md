@@ -78,8 +78,8 @@ Uygulama aşağıdaki üçüncü taraf hizmetleri kullanabilir:
 - Kullanıcılar, kişisel verilerine erişme, düzeltme veya silme hakkına sahiptir.  
 - Bu tür talepler için geliştirici ile iletişime geçilebilir:
 
-📧 **E-posta:** cihanoren@example.com  
-📞 **Telefon:** *(isteğe bağlı)*
+📧 **E-posta:** cihanoren1@gmail.com  
+
 
 ---
 
